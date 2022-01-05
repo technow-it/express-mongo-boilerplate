@@ -24,8 +24,7 @@ The examples will be inspired by common pattern in development process.
 Feel free to open a pull request or ask an example.
 
 
-
-`     _____                    _____          
+      _____                    _____          
      /\    \                  /\    \         
     /::\    \                /::\____\        
     \:::\    \              /::::|   |        
@@ -45,4 +44,4 @@ Feel free to open a pull request or ask an example.
                               /:::/    /      
                              /:::/    /       
                              \::/    /        
-                              \/____/        `
+                              \/____/        
