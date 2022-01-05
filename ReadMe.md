@@ -23,24 +23,3 @@ The examples will be inspired by common pattern in development process.
 
 Feel free to open a pull request or ask an example.
 
-
-
-                                               
-<div>                               
-<span>TTTTTTTTTTTTTTTTTTTTTTTNNNNNNNN        NNNNNNNN</span><br/>
-<span>T:::::::::::::::::::::TN:::::::N       N::::::N</span><br/>
-T:::::::::::::::::::::TN::::::::N      N::::::N
-T:::::TT:::::::TT:::::TN:::::::::N     N::::::N
-TTTTTT  T:::::T  TTTTTTN::::::::::N    N::::::N
-        T:::::T        N:::::::::::N   N::::::N
-        T:::::T        N:::::::N::::N  N::::::N
-        T:::::T        N::::::N N::::N N::::::N
-        T:::::T        N::::::N  N::::N:::::::N
-        T:::::T        N::::::N   N:::::::::::N
-        T:::::T        N::::::N    N::::::::::N
-        T:::::T        N::::::N     N:::::::::N
-      TT:::::::TT      N::::::N      N::::::::N
-      T:::::::::T      N::::::N       N:::::::N
-      T:::::::::T      N::::::N        N::::::N
-      TTTTTTTTTTT      NNNNNNNN         NNNNNNN
-<div>
