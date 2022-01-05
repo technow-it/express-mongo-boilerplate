@@ -27,8 +27,8 @@ Feel free to open a pull request or ask an example.
 
                                                
 <div>                               
-<span>TTTTTTTTTTTTTTTTTTTTTTTNNNNNNNN        NNNNNNNN</span>
-<span>T:::::::::::::::::::::TN:::::::N       N::::::N</span>
+<span>TTTTTTTTTTTTTTTTTTTTTTTNNNNNNNN        NNNNNNNN</span><br/>
+<span>T:::::::::::::::::::::TN:::::::N       N::::::N</span><br/>
 T:::::::::::::::::::::TN::::::::N      N::::::N
 T:::::TT:::::::TT:::::TN:::::::::N     N::::::N
 TTTTTT  T:::::T  TTTTTTN::::::::::N    N::::::N
